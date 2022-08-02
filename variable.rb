@@ -7,6 +7,12 @@ date = 822022
 price = 1.25
 tax = 0.66
 
-x = 1
-x == 1
-x != 1
+x = TRUE
+
+puts email
+puts user_id
+puts age
+puts date
+puts x
+puts price
+puts tax
