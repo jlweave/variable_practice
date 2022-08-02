@@ -8,3 +8,8 @@ date = 822022
 # floats
 price = 1.25
 tax = .66
+#booleans
+x = 1
+x == 1
+x != 1
+#
